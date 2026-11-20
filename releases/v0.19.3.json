@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.19.3",
+  "full": {
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.19.3/TPM_Manager_0.19.3_Public_Full_Update_Windows_x64.zip",
+    "sha256": "40944ce1c88a3aab744d30fc520e61fee7606113e1ba79869b17f8e30fb26072",
+    "size": 10626191
+  },
+  "incremental": {
+    "from_version": "0.19.2",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.19.3/TPM_Manager_0.19.3_Startup_Status_Windows_x64_Update.zip",
+    "sha256": "5161a1e995268a1ae4cfcdfb3e435c3bb3c09a8825cc78c0ed086c4a6fee0ad6",
+    "size": 106130
+  }
+}
