@@ -1,33 +1,33 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.23.10",
+  "version": "0.24.1",
   "full": {
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.10/TPM_Manager_0.23.10_Public_Full_Update_Windows_x64.zip",
-    "sha256": "20568799087940e6b2e0229b2fb543396e61e097927a0a1d551c762fda4ceafd",
-    "size": 10772994
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.24.1/TPM_Manager_0.24.1_Public_Full_Update_Windows_x64.zip",
+    "sha256": "d6cc3c75bf9360bb1a74a17d868550aa2ff746614dbcb20b584faf2a1552751e",
+    "size": 10773360
   },
   "incremental": {
-    "from_version": "0.23.9",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.10/TPM_Manager_0.23.10_Warehouse_Modal_Initial_Metadata_Windows_x64_Update.zip",
-    "sha256": "0ebe5b540f9075e781484a0ff69691473b8b8fa01b74853d415495b6db9d0478",
-    "size": 149391
+    "from_version": "0.23.10",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.24.1/TPM_Manager_0.24.1_Installer_Metadata_Consent_Windows_x64_Update.zip",
+    "sha256": "a7412e6aa8fe6f4b36058636584379df6d5d0915ce5c360bd0d08790f4233d3e",
+    "size": 2069
   },
   "installer": {
-    "installer_version": "0.23.10",
-    "size": 2008064,
-    "architecture": "Windows x64",
-    "sha256": "d70da84c540a948fe8a859803a5646deeb8ab3f54d3dc84c9cbadb40dc68388d",
     "mode": "online",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.10/BEIRE_TPM_Setup.exe"
+    "sha256": "96c2079901b2389538b5abae617067dbc5e73eb512c8df7a1cbefb2b36594dd6",
+    "architecture": "Windows x64",
+    "installer_version": "0.24.1",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.24.1/BEIRE_TPM_Setup.exe",
+    "size": 2015744
   },
   "offline_installer": {
-    "installer_version": "0.23.10",
-    "bundled_version": "0.23.10",
-    "size": 305256960,
-    "architecture": "Windows x64",
-    "sha256": "9db4de886919b66666fe2b2d74d42dc51a54c817253882085b95ea58604fe012",
     "mode": "offline",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.10/BEIRE_TPM_Offline_Setup.exe"
+    "sha256": "ed0a9dac59ac5d5821113806bee70677959cfcdb91846192bb9ce1c7d4b29e5f",
+    "architecture": "Windows x64",
+    "installer_version": "0.24.1",
+    "bundled_version": "0.24.1",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.24.1/BEIRE_TPM_Offline_Setup.exe",
+    "size": 305265152
   }
 }
