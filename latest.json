@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.23.2",
+  "version": "0.23.3",
   "full": {
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.2/TPM_Manager_0.23.2_Public_Full_Update_Windows_x64.zip",
-    "sha256": "8125080ac7960a63d346fd587bdbbf1b0aa81c4e55e2cf7b2939a437be02c330",
-    "size": 10758118
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.3/TPM_Manager_0.23.3_Public_Full_Update_Windows_x64.zip",
+    "sha256": "9e8d07de7def0c803806177e7fcb643aa2218bb49290f1608ec6da21d63cd534",
+    "size": 10758974
   },
   "incremental": {
-    "from_version": "0.23.1",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.2/TPM_Manager_0.23.2_BC_Sequential_Pair_Overwrite_Windows_x64_Update.zip",
-    "sha256": "9e3c9b3b268c402b72fc5cc82aa8386d3e938ec7c5b4d0bb33bb2d7dd1ed0a43",
-    "size": 16060
+    "from_version": "0.23.2",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.3/TPM_Manager_0.23.3_Uniform_Print_Rows_Windows_x64_Update.zip",
+    "sha256": "1498616349bc997c9ca9f312d3d1158246f9755d5f9f623fe52af6adb9b5a805",
+    "size": 73568
   },
   "installer": {
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.2/BEIRE_TPM_Setup_0.23.2_Windows_x64.exe",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.23.3/BEIRE_TPM_Setup_0.23.3_Windows_x64.exe",
+    "bundled_version": "0.23.3",
+    "sha256": "d5dbaa853e290489650f098449015186c9901250e130a12c6c65a4ea11b130f4",
     "architecture": "Windows x64",
-    "bundled_version": "0.23.2",
-    "sha256": "2eba4a69750fc8fc29ccd92a6913797e0aa6446ad7200087b82a0c2e4ef12628",
-    "size": 305212928
+    "size": 305213952
   }
 }
