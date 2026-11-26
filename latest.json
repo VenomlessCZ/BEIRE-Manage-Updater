@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.22.7",
+  "version": "0.22.8",
   "full": {
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.7/TPM_Manager_0.22.7_Public_Full_Update_Windows_x64.zip",
-    "sha256": "b2e7ff19fb88c2e4be4b2aa2257775d502e8a5f13186ab6f32673d9015e6620e",
-    "size": 10754580
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.8/TPM_Manager_0.22.8_Public_Full_Update_Windows_x64.zip",
+    "sha256": "c7d177b90f74477aaa4161149f3863363324bc2fe9ff53ee2d57baf3b0f3073b",
+    "size": 10754572
   },
   "incremental": {
-    "from_version": "0.22.6",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.7/TPM_Manager_0.22.7_Installer_BEIRE_Style_Windows_x64_Update.zip",
-    "sha256": "1fc0a7dde7f448b5d90cc74f37e420618e2a55fd924955c486a95f59a3cb7b56",
-    "size": 459
+    "from_version": "0.22.7",
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.8/TPM_Manager_0.22.8_Thin_Print_Borders_Windows_x64_Update.zip",
+    "sha256": "a0133b093573882567dcaa72e7d579c887af6b0170f1d56e57c091516a4539ad",
+    "size": 37453
   },
   "installer": {
+    "sha256": "09cfc282931e3b90cf57c3d3c8bb0136763942830ba75e5daf09b979d99cbadd",
     "architecture": "Windows x64",
-    "sha256": "3f81ab1c2e48d9fd928aaff561d757114de0216ee970c4f7c467627a08fb558d",
-    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.7/BEIRE_TPM_Setup_0.22.7_Windows_x64.exe",
-    "bundled_version": "0.22.7",
-    "size": 305005568
+    "url": "https://github.com/VenomlessCZ/BEIRE-Manage-Updater/releases/download/v0.22.8/BEIRE_TPM_Setup_0.22.8_Windows_x64.exe",
+    "bundled_version": "0.22.8",
+    "size": 305209344
   }
 }
